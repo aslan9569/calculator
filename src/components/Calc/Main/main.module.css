@@ -1,0 +1,29 @@
+ button {
+    background-color: lightblue;
+    border: none;
+    outline: none;
+    margin: 3px;
+}
+.con {
+    margin: auto;
+}
+.ac {
+    width: 200px;
+    height: 60px;
+    background-color: lightblue;
+}
+.del {
+    width: 97px;
+    height: 60px;
+}
+.numCon {
+    width: 320px;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+}
+.signCon {
+    width: 100px;
+    padding-right: 7px;
+}

@@ -1,0 +1,10 @@
+.container {
+    width: 700px;
+    height: 700px;
+    background: linear-gradient(to right, #00ccff 0%, #00cc66 100%);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
