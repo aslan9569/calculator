@@ -8,12 +8,10 @@ function Header(props) {
 
   return (
     <div className={classes.header}>
-      <input type="text" className={classes.payment} value={calc} />
-      <input
-        type="text"
+      <div className={classes.payment}>{calc}</div>
+      <div
         className={classes.result}
-        value={calc === "" ? result : ""}
-      />
+        >{calc === "" ? result : ""}</div>
     </div>
   );
 }

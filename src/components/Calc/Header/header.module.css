@@ -6,25 +6,24 @@
 }
 .payment {
     border: none;
-    width: 90%;
-    outline: none;
+    width: 95%;
     background-color: #424242;
     color: lightgray;
     margin-right: 10px;
     font-size: 23px;
-    margin-top: 10px;
+    padding-top: 10px;
     writing-mode: revert;
     text-align: right;
 }
 .result {
     margin-top: 10px;
-    width: 80%;
-    height: 30px;
+    width: 95%;
     font-size: 30px;
     text-align: right;
     margin-right: 20px;
     border: none;
     outline: none;
-    background-color: #424242;
+    background-color:  #424242;
     color: white;
+    padding-top: 20px;
 }
